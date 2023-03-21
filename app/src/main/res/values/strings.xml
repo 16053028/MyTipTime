@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Tip Time</string>
+    <string name="app_title">Tip Recomendation App</string>
+    <string name="label_input_ammount">Amount Spend (%s)</string>
+    <string name="label_input_percentages">Tip Percentages</string>
+    <string name="text_display_tip">Tip recomendation : %s</string>
+</resources>
